@@ -17,9 +17,12 @@
 <h2 align="center">About</h2>
 
 <p align="center">
-A Junior software developer. Specialized in Website development. I design responsive client side UI , am a highly motivated self-starter, team player and also a flexible quick learner.
- My portfolio https://reinchemo.github.io/resume/
 
+Results-driven technology enthusiast with a passion for staying current on industry trends and advancements with a strong background in Software Engineering.
+
+*skills
+• Python | HTML | CSS | JavaScript | PHP | Django | VB.net | MySQL | Git | React | C | C++.
+• Cloud Computing | Unit Testing | OOP | Networking | Linux | MS Office | AWS
 </p>
 
 <!-- <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
