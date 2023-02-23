@@ -14,10 +14,9 @@
   
 </p>   -->
 
-<h2 align="center">About</h2>
+<h2 align="center">Skills</h2>
 
 <p align="center">
-*skills
 Python | HTML | CSS | JavaScript | PHP | Django | VB.net | MySQL | Git | React | C | C++.
 Cloud Computing | Unit Testing | OOP | Networking | Linux | MS Office | AWS
 </p>
