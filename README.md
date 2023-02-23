@@ -2,7 +2,7 @@
 <h2 align="center">My Skills</h2>
 <p align="center">
 Python | HTML | CSS | JavaScript | PHP | Django | VB.net | MySQL | Git | React | C | C++| Java.<br>
-Cloud Computing | Unit Testing | OOP | Networking | Linux | MS Office | AWS
+Cloud Computing | Unit Testing | OOP | Networking | Linux | MS Office | AWS.
 </p>
 
 <!-- <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
@@ -23,7 +23,7 @@ Cloud Computing | Unit Testing | OOP | Networking | Linux | MS Office | AWS
 </p>
 
 <h2 align="center">
- My Github Stats
+ Github Stats
  
 <!--   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> -->
 </h2>
