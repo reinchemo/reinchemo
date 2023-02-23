@@ -17,7 +17,7 @@
 <h2 align="center">Skills</h2>
 
 <p align="center">
-Python | HTML | CSS | JavaScript | PHP | Django | VB.net | MySQL | Git | React | C | C++.<br>
+Python | HTML | CSS | JavaScript | PHP | Django | VB.net | MySQL | Git | React | C | C++| Java.<br>
 Cloud Computing | Unit Testing | OOP | Networking | Linux | MS Office | AWS
 </p>
 
