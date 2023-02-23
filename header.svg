@@ -49,7 +49,7 @@
         }
 
         .typing-demo {
-          width: 23ch;
+          width: 18ch;
           animation: typing 4s steps(37), blink .3s step-end infinite alternate;
           white-space: nowrap;
           overflow: hidden;
