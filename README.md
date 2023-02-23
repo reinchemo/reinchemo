@@ -2,17 +2,8 @@
 <!--  Reinhard -->
 <p align="center">
  
-</p align="center">
-<img src=header.svg />
-
-<p align="center">
- 
- 
-</p>
-
-<!-- <p align="center">
-  
-</p>   -->
+<!-- </p align="center">
+<img src=header.svg /> -->
 
 <h2 align="center">Skills</h2>
 
