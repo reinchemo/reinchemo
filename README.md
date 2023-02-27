@@ -1,8 +1,10 @@
 
-<h2 align="center">My Skills</h2>
+<h2 align="center">About</h2>
 <p align="center">
-Python | HTML | CSS | JavaScript | PHP | Django | VB.net | MySQL | Git | React | C | C++| Java.<br>
-Cloud Computing | Unit Testing | OOP | Networking | Linux | MS Office | AWS.
+Results-driven technology enthusiast with a passion for staying current on
+industry trends and advancements with a strong background in Software
+Engineering, am Intermediate in Python but I have basic knowledge in other
+programming languages
 </p>
 
 <!-- <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
