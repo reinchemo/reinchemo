@@ -4,8 +4,7 @@
 ### Hi there 👋 </br>
 - 💬 Ask me about anything</br>
 - 📫 How to reach me: :email: :iphone: :phone: :telephone_receiver: :fax: :mega: :mailbox:
-</p></br>
-
+</p>
  <img  src = "https://github-readme-stats.vercel.app/api?username=reinchemo&show_icons=true&theme=radical&line_height=27">
 
 
@@ -29,20 +28,11 @@
 <h2 align="center">
  Github Stats
  
-<!--   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> -->
+
 </h2>
  
 <br>
 
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=reinchemo&show_icons=true&theme=radical&line_height=27">
-<!--   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=reinchemo&hide=html,shaderlab,kotlin,hlsl&theme=radical"> -->
-</p>
-
-
- <!-- <p align = "center"> 
- <img src="https://activity-graph.herokuapp.com/graph?username=reinchemo&theme=redical">
-</p>  -->
 <hr>
 <p align="center">Ready for hire ⭐</p>
 
