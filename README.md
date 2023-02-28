@@ -16,10 +16,10 @@
 </p>
 
 
-<h4>
+<!-- <h4>
  Contribution Grid
 <!--   My Snake Contribution Grid <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50"> -->
-</h4>
+</h4> -->
 <p align="center">
   <img src="https://github.com/reinchemo/reinchemo/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
