@@ -4,6 +4,7 @@
 ### Hi there 👋 </br>
 - 💬 Ask me about anything</br>
 - 📫 How to reach me: :email: :iphone: :phone: :telephone_receiver: :fax: :mega: :mailbox:
+-  <img  src = "https://github-readme-stats.vercel.app/api?username=reinchemo&show_icons=true&theme=radical&line_height=27">
 </p>
 
 <!-- <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
