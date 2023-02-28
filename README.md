@@ -1,6 +1,6 @@
 
 <h2 align="center">About</h2>
-<p align="center">
+<p>
 ### Hi there 👋 
 - 💬 Ask me about anything
 - 📫 How to reach me: :email: :iphone: :phone: :telephone_receiver: :fax: :mega: :mailbox:
