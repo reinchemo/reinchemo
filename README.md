@@ -1,5 +1,5 @@
 
-<h2 align="center">About</h2>
+<h2>About</h2>
 <p>
 ### Hi there 👋 </br>
 - 💬 Ask me about anything</br>
