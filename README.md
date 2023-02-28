@@ -1,10 +1,9 @@
 
 <h2 align="center">About</h2>
 <p align="center">
-Results-driven technology enthusiast with a passion for staying current on
-industry trends and advancements with a strong background in Software
-Engineering, am Intermediate in Python but I have basic knowledge in other
-programming languages.
+### Hi there 👋 
+- 💬 Ask me about anything
+- 📫 How to reach me: :email: :iphone: :phone: :telephone_receiver: :fax: :mega: :mailbox:
 </p>
 
 <!-- <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
