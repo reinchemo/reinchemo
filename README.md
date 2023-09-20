@@ -6,9 +6,6 @@
  <tr><img height="180em" src="https://github-readme-stats.vercel.app/api?username=reinchemo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/></tr>
   <tr><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinchemo&layout=compact&langs_count=7&theme=github_dark"/></tr>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=reinchemo&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-
 <p>
  <a href="  https://www.linkedin.com/feed/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-00008b?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </p>
