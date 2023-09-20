@@ -7,7 +7,7 @@
   <tr><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinchemo&layout=compact&langs_count=7&theme=github_dark"/></tr>
 
 <p>
- <a href="  https://www.linkedin.com/feed/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-00008b?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+ <a href="https://www.linkedin.com/in/reinhard-chemonges-15a52a216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-00008b?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </p>
 
 
