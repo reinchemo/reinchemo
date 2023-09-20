@@ -6,9 +6,8 @@
  <tr><img height="180em" src="https://github-readme-stats.vercel.app/api?username=reinchemo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/></tr>
   <tr><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinchemo&layout=compact&langs_count=7&theme=github_dark"/></tr>
 
-<p>
- <a href="https://www.linkedin.com/in/reinhard-chemonges-15a52a216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-00008b?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</p>
+## 🌐Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reinhard-chemonges-15a52a216/)
 
 
 
