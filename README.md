@@ -79,7 +79,7 @@ waketime starts-->
  <a href="mailto:chemorein24@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
  </a>&nbsp;&nbsp;
- <a href="https://github.com/reinchemo/reinchemo">
+ <a href="https://github.com/reinchemo">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/reinhard-chemonges-15a52a216/">
