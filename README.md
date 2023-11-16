@@ -1,5 +1,5 @@
 <!---header --->
-<h1 align="center">Hello, Wolrd<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="32px" style="margin-bottom: -5px;"/> !</h1>
+<h1 align="center">Hello, World<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="32px" style="margin-bottom: -5px;"/> !</h1>
  <p align="center">
   <img src="https://github.com/reinchemo/reinchemo/blob/main/Rainbow.gif" width="100vw">
   </p>
@@ -48,8 +48,8 @@
 
 
 
-<!--waka time-->
-### Wakatime Stats
+<!--wake time-->
+### Waketime Stats
 <p><h4>Hours spent coding this week: </h4>  
 
 <a href="https://wakatime.com/@1d21237a-cb66-4f64-9a1a-c8e44a9c149b"><img src="https://wakatime.com/badge/user/1d21237a-cb66-4f64-9a1a-c8e44a9c149b.svg" alt="" /></a>
