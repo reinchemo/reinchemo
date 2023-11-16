@@ -43,14 +43,11 @@
 <!--Experience-->
 ### Experience
 <p align="left">
- <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60"/></code>     <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/></code>      <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="60" height="60" /></code>      <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="60" /></code>     <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="JQuery" width="60" height="60"/></code>     <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60"/></code>    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"/></code>    <code><img src="https://www.naveedashfaq.me/img/c++.png" height="60" width="60" ></code>      <code><img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"height="60" width="60" ></code>
+</code>     <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/></code>      <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="60" height="60" /></code>      <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="60" /></code>    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"/></code>    
 </p>
 <!--Experience-->
 
-<!--Trophie-->
-### My Trophies
-![trophies](https://github-profile-trophy.vercel.app/?username=reinchemo&column=8&row=1&theme=onedark&no-frame=true&no-bg=false&count_private=true)
-<!--Trophies-->
+
 
 
 <!--waka time-->
@@ -61,14 +58,9 @@
 </p>
 <!--
 <img src="https://wakatime.com/share/@codedroid/ee1cf0fd-42a8-45c7-97f3-d2df82dd18b4.svg"/>
-wakatime starts-->
+waketime starts-->
 
-<!--- more metrics--->
-<h3 align="left">More metrics and insight? <a href="https://metrics.lecoq.io/insights/reinchemo">click me👇</a></h3>
- <a href="https://metrics.lecoq.io/insights/CodeDroid999">
-    <img width="100%" src="https://github.com/reinchemo/reinchemo/blob/main/metrics(1).jpeg" />
-  </a>&nbsp;&nbsp;  
-<!---more metrics--->
+
 
 <!--jokes-->
 ### 😂 Here is a random joke for you today: 
