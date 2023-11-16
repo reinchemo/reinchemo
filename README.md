@@ -11,9 +11,7 @@
 </h1>
 <!--Typing svg-->
 
-<!--svg-->
-<img src="https://github.com/reinchemo/reinchemo/blob/main/header_.png">
-<!--svg-->
+
 
 <!--streaks-->
 <p>
